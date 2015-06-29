@@ -1,2 +1,2 @@
 # hopkins
-For Coursea project
+For Coursea Data Scientist's Toolbox project
